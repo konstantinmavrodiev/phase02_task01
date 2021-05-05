@@ -24,4 +24,4 @@ EXPOSE 80
 # expose needed ports
 
 # don't change this line
-#CMD ["/usr/bin/supervisord"]
+CMD ["/usr/bin/supervisord"]
